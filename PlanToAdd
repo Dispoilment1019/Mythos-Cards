@@ -37,7 +37,7 @@
     {'catalog_number': 'tbd', 'name': 'Sonju', 'series': 'The Promised Neverland', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Made in Abyss ---
+    # --- Made in Abyss --- chonky
     {'catalog_number': 'tbd', 'name': 'Riko', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Reg', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Nanachi', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -128,7 +128,7 @@
     {'catalog_number': 'tbd', 'name': 'Pina', 'series': 'Beastars', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Arcane ---
+    # --- Arcane --- chonky
     {'catalog_number': 'tbd', 'name': 'Vi', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Jinx', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Caitlyn', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -440,7 +440,7 @@
     {'catalog_number': 'tbd', 'name': 'Red', 'series': 'Primal', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Panty & Stocking with Garterbelt ---
+    # --- Panty & Stocking with Garterbelt --- chonky
     {'catalog_number': 'tbd', 'name': 'Panty', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Stocking', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Garterbelt', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -453,7 +453,7 @@
     {'catalog_number': 'tbd', 'name': 'Honekoneko', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Soul Eater ---
+    # --- Soul Eater --- chonky
     {'catalog_number': 'tbd', 'name': 'Maka Albarn', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Soul Eater Evans', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Death the Kid', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -583,7 +583,7 @@
     {'catalog_number': 'tbd', 'name': 'Athena', 'series': 'Hades', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Persona 4 Golden ---
+    # --- Persona 4 Golden --- chonky 
     {'catalog_number': 'tbd', 'name': 'Yu Narukami', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Yosuke Hanamura', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Chie Satonaka', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -700,7 +700,7 @@
     {'catalog_number': 'tbd', 'name': 'Javier Escuella', 'series': 'Red Dead Redemption 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Silent Hill 2 ---
+    # --- Silent Hill 2 --- chonky 
     {'catalog_number': 'tbd', 'name': 'James Sunderland', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Maria', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Pyramid Head', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -739,7 +739,7 @@
     {'catalog_number': 'tbd', 'name': 'Chara', 'series': 'Undertale', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Detroit: Become Human ---
+    # --- Detroit: Become Human --- chonky
     {'catalog_number': 'tbd', 'name': 'Connor', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Markus', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Kara', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -765,7 +765,7 @@
     {'catalog_number': 'tbd', 'name': 'Amy', 'series': 'Doki Doki Literature Club', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Dead by Daylight ---
+    # --- Dead by Daylight --- chonky
     {'catalog_number': 'tbd', 'name': 'The Trapper', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'The Nurse', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'The Huntress', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -895,7 +895,7 @@
     {'catalog_number': 'tbd', 'name': 'Cole', 'series': 'Dragon Age: Inquisition', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Resident Evil Village ---
+    # --- Resident Evil Village --- chonky
     {'catalog_number': 'tbd', 'name': 'Ethan Winters', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Lady Dimitrescu', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Chris Redfield', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -960,7 +960,7 @@
     {'catalog_number': 'tbd', 'name': 'Paul Phoenix', 'series': 'Tekken 8', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Stardew Valley ---
+    # --- Stardew Valley --- chonky
     {'catalog_number': 'tbd', 'name': 'Farmer', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Abigail', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Sebastian', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1155,7 +1155,7 @@
     {'catalog_number': 'tbd', 'name': 'Psycho Jenny', 'series': 'Devilman Crybaby', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Wonder Egg Priority ---
+    # --- Wonder Egg Priority --- chonky 
     {'catalog_number': 'tbd', 'name': 'Ai Ohto', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Neiru Aonuma', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Rika Kawai', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1600,7 +1600,7 @@
     {'catalog_number': 'tbd', 'name': 'The Trapper & Trader', 'series': 'Inscryption', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- It Takes Two ---
+    # --- It Takes Two --- chomky
     {'catalog_number': 'tbd', 'name': 'Cody', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'May', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Dr. Hakim', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1626,7 +1626,7 @@
     {'catalog_number': 'tbd', 'name': 'Sweetheart', 'series': 'Omori', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Spiritfarer ---
+    # --- Spiritfarer --- chonky
     {'catalog_number': 'tbd', 'name': 'Stella', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Daffodil', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Gwen', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
