@@ -128,7 +128,7 @@
     {'catalog_number': 'tbd', 'name': 'Pina', 'series': 'Beastars', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Arcane --- chonky
+    # --- Arcane --- 
     {'catalog_number': 'tbd', 'name': 'Vi', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Jinx', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Caitlyn', 'series': 'Arcane', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
