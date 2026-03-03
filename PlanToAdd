@@ -37,7 +37,7 @@
     {'catalog_number': 'tbd', 'name': 'Sonju', 'series': 'The Promised Neverland', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Made in Abyss --- chonky
+    # --- Made in Abyss --- 
     {'catalog_number': 'tbd', 'name': 'Riko', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Reg', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Nanachi', 'series': 'Made in Abyss', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
