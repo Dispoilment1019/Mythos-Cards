@@ -440,7 +440,7 @@
     {'catalog_number': 'tbd', 'name': 'Red', 'series': 'Primal', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Panty & Stocking with Garterbelt ---
+    # --- Panty & Stocking with Garterbelt ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Panty', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Stocking', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Garterbelt', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -453,7 +453,7 @@
     {'catalog_number': 'tbd', 'name': 'Honekoneko', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Soul Eater ---
+    # --- Soul Eater ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Maka Albarn', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Soul Eater Evans', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Death the Kid', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -583,7 +583,7 @@
     {'catalog_number': 'tbd', 'name': 'Athena', 'series': 'Hades', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Persona 4 Golden ---
+    # --- Persona 4 Golden ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Yu Narukami', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Yosuke Hanamura', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Chie Satonaka', 'series': 'Persona 4 Golden', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -609,7 +609,7 @@
     {'catalog_number': 'tbd', 'name': 'Fyra', 'series': 'NieR Replicant', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Bayonetta 3 ---
+    # --- Bayonetta 3 ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Bayonetta', 'series': 'Bayonetta 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Jeanne', 'series': 'Bayonetta 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Viola', 'series': 'Bayonetta 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -700,7 +700,7 @@
     {'catalog_number': 'tbd', 'name': 'Javier Escuella', 'series': 'Red Dead Redemption 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Silent Hill 2 ---
+    # --- Silent Hill 2 ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'James Sunderland', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Maria', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Pyramid Head', 'series': 'Silent Hill 2', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -726,7 +726,7 @@
     {'catalog_number': 'tbd', 'name': 'Master Xehanort', 'series': 'Kingdom Hearts III', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Undertale ---
+    # --- Undertale ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Frisk', 'series': 'Undertale', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Sans', 'series': 'Undertale', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Papyrus', 'series': 'Undertale', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -739,7 +739,7 @@
     {'catalog_number': 'tbd', 'name': 'Chara', 'series': 'Undertale', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Detroit: Become Human ---
+    # --- Detroit: Become Human ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Connor', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Markus', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Kara', 'series': 'Detroit: Become Human', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -765,7 +765,7 @@
     {'catalog_number': 'tbd', 'name': 'Amy', 'series': 'Doki Doki Literature Club', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Dead by Daylight ---
+    # --- Dead by Daylight ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'The Trapper', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'The Nurse', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'The Huntress', 'series': 'Dead by Daylight', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -895,7 +895,7 @@
     {'catalog_number': 'tbd', 'name': 'Cole', 'series': 'Dragon Age: Inquisition', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Resident Evil Village ---
+    # --- Resident Evil Village ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Ethan Winters', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Lady Dimitrescu', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Chris Redfield', 'series': 'Resident Evil Village', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -960,7 +960,7 @@
     {'catalog_number': 'tbd', 'name': 'Paul Phoenix', 'series': 'Tekken 8', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Stardew Valley ---
+    # --- Stardew Valley ---  (chonky) 
     {'catalog_number': 'tbd', 'name': 'Farmer', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Abigail', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Sebastian', 'series': 'Stardew Valley', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1155,7 +1155,7 @@
     {'catalog_number': 'tbd', 'name': 'Psycho Jenny', 'series': 'Devilman Crybaby', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Wonder Egg Priority ---
+    # --- Wonder Egg Priority ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Ai Ohto', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Neiru Aonuma', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Rika Kawai', 'series': 'Wonder Egg Priority', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1600,7 +1600,7 @@
     {'catalog_number': 'tbd', 'name': 'The Trapper & Trader', 'series': 'Inscryption', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- It Takes Two ---
+    # --- It Takes Two ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Cody', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'May', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Dr. Hakim', 'series': 'It Takes Two', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1626,7 +1626,7 @@
     {'catalog_number': 'tbd', 'name': 'Sweetheart', 'series': 'Omori', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Spiritfarer ---
+    # --- Spiritfarer ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Stella', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Daffodil', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Gwen', 'series': 'Spiritfarer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1846,19 +1846,6 @@
     {'catalog_number': 'tbd', 'name': 'Suguru Geto', 'series': 'Jujutsu Kaisen', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Demon Slayer ---
-    {'catalog_number': 'tbd', 'name': 'Tanjiro Kamado', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Nezuko Kamado', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Zenitsu Agatsuma', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Inosuke Hashibira', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Giyu Tomioka', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Shinobu Kocho', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Kyojuro Rengoku', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Muzan Kibutsuji', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Akaza', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Mitsuri Kanroji', 'series': 'Demon Slayer', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-
-
     # --- One Piece ---
     {'catalog_number': 'tbd', 'name': 'Monkey D. Luffy', 'series': 'One Piece', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Roronoa Zoro', 'series': 'One Piece', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -1896,19 +1883,6 @@
     {'catalog_number': 'tbd', 'name': 'Annie Leonhart', 'series': 'Attack on Titan', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Zeke Yeager', 'series': 'Attack on Titan', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Historia Reiss', 'series': 'Attack on Titan', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-
-
-    # --- My Hero Academia ---
-    {'catalog_number': 'tbd', 'name': 'Izuku Midoriya', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Katsuki Bakugo', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Shoto Todoroki', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'All Might', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Ochaco Uraraka', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Tenya Iida', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Tomura Shigaraki', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Dabi', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Hawks', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Endeavor', 'series': 'My Hero Academia', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
     # --- Hunter x Hunter ---
@@ -2028,19 +2002,6 @@
     {'catalog_number': 'tbd', 'name': 'Sibyl System', 'series': 'Psycho-Pass', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Fate/Zero ---
-    {'catalog_number': 'tbd', 'name': 'Saber (Artoria)', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Kiritsugu Emiya', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Gilgamesh', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Rider (Iskandar)', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Waver Velvet', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Kirei Kotomine', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Lancer (Diarmuid)', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Berserker (Lancelot)', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Irisviel von Einzbern', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Assassin (Hassan)', 'series': 'Fate/Zero', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-
-
     # --- Frieren: Beyond Journey's End ---
     {'catalog_number': 'tbd', 'name': 'Frieren', 'series': "Frieren: Beyond Journey's End", 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Fern', 'series': "Frieren: Beyond Journey's End", 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -2150,7 +2111,7 @@
     {'catalog_number': 'tbd', 'name': 'Skull Kid', 'series': 'The Legend of Zelda', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Persona 5 ---
+    # --- Persona 5 ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Joker (Ren Amamiya)', 'series': 'Persona 5', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Ryuji Sakamoto', 'series': 'Persona 5', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Ann Takamaki', 'series': 'Persona 5', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
@@ -2163,7 +2124,7 @@
     {'catalog_number': 'tbd', 'name': 'Kasumi Yoshizawa', 'series': 'Persona 5', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Persona 3 ---
+    # --- Persona 3 ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Makoto Yuki', 'series': 'Persona 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Aigis', 'series': 'Persona 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Mitsuru Kirijo', 'series': 'Persona 3', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
