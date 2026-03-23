@@ -440,19 +440,6 @@
     {'catalog_number': 'tbd', 'name': 'Red', 'series': 'Primal', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
 
 
-    # --- Panty & Stocking with Garterbelt ---  (chonky)
-    {'catalog_number': 'tbd', 'name': 'Panty', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Stocking', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Garterbelt', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Brief', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Kneesocks', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Scanty', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Chuck', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Fastener', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Corset', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-    {'catalog_number': 'tbd', 'name': 'Honekoneko', 'series': 'Panty & Stocking with Garterbelt', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
-
-
     # --- Soul Eater ---  (chonky)
     {'catalog_number': 'tbd', 'name': 'Maka Albarn', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
     {'catalog_number': 'tbd', 'name': 'Soul Eater Evans', 'series': 'Soul Eater', 'edition': 1, 'print_limit': None, 'image_url': '', 'staged_catalog': 'tbd'},
